@@ -1,0 +1,3 @@
+﻿  test.c
+E:\学习资源\Code\text - 7.27\test.c(319,1): error C2091: 函数返回函数
+E:\学习资源\Code\text - 7.27\test.c(319,1): fatal error C1004: 发现意外的文件尾
