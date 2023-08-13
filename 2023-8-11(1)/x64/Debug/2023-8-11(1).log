@@ -1,0 +1,6 @@
+﻿F:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(2023-8-11(1).vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+E:\学习资源\Code\2023-8-11(1)\test.c(310,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\学习资源\Code\2023-8-11(1)\test.c(310,9): message : 请考虑在格式字符串中使用“%zd”
+E:\学习资源\Code\2023-8-11(1)\test.c(307,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2023-8-11(1).vcxproj -> E:\学习资源\Code\2023-8-11\x64\Debug\2023-8-11.exe
