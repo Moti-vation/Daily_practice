@@ -1,0 +1,4 @@
+﻿  test.c
+E:\学习资源\Code\2023-8-9作业\test.c(13,15): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+E:\学习资源\Code\2023-8-9作业\test.c(13,15): message : 请考虑在格式字符串中使用“%hhd”
+  2023-8-9作业.vcxproj -> E:\学习资源\Code\2023-8-9作业\Debug\2023-8-9作业.exe
